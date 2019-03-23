@@ -81,4 +81,4 @@ a une largeur fixe de 200px.
 
 ---
 
-Extra : [CSS Flexbox](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex10)
+Extra : [CSS Grid](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex11)

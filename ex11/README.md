@@ -31,4 +31,4 @@ Modifiez la page grace a align-self pour que le NAV et le ASIDE soit coller en h
 
 ---
 
-Extra : [CSS Flexbox](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex10)
+Extra : [CSS 3D](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex12)
