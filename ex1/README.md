@@ -11,4 +11,4 @@ Ouvrez votre page index.html dans votre éditeur. Vous allez devoir mettre en pl
 
 Exercice : Ajouter dans votre page le minimum pour que votre navigateur comprenne que c'est une page HTML et qu'il y ait un titre.
 ---
-La suite : [HTML le contenu](https://github.com/simplon-roanne/front-end-prairie/ex2)
+La suite : [HTML le contenu](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex2)

@@ -63,4 +63,4 @@ Vous allez mettre en place la mise en page pour le pied de page de votre site ! 
 
 Exercice : Suivez les règles définies ci-dessus et mettez en place le style du pied de page
 ---
-La suite : [CSS Animations/Transitions](https://github.com/simplon-roanne/front-end-prairie/ex5)
+La suite : [CSS Animations/Transitions](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex5)

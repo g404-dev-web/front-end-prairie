@@ -6,4 +6,4 @@ Maintenant que le contenu est en place, il faut ajouter une feuille de style et 
 
 Exercice : Créez votre fichier main.css dans le dossier css et chargez le dans vos fichier html avec la balise <link>
 ---
-La suite : [CSS la mise en page](https://github.com/simplon-roanne/front-end-prairie/ex4)
+La suite : [CSS la mise en page](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex4)

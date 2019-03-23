@@ -21,4 +21,4 @@ Vous allez créer les pages de vos articles sur votre site. Un article contiendr
 
 Exercice : Créez dans votre dossier projet les pages d'article en respectant la demande.
 ---
-La suite : [CSS démarrage](https://github.com/simplon-roanne/front-end-prairie/ex3)
+La suite : [CSS démarrage](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex3)

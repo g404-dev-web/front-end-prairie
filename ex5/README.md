@@ -21,4 +21,4 @@ Pour dynamiser le site, on peut ajouter des animation a l'apparition de la page 
 
 Exercice : Suivez les règles définies ci-dessus et mettez en place ces quelques transitions.
 ---
-La suite : [CSS le responsive](https://github.com/simplon-roanne/front-end-prairie/ex6)
+La suite : [CSS le responsive](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex6)

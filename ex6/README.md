@@ -25,4 +25,4 @@ Pour la version smartphone il reste encore un peu de travail. Suivez les règles
 
 Exercice : Suivez les règles défini ci-dessus et mettez en place le responsive pour les smartphones.
 ---
-La suite : [JQuery démarrage](https://github.com/simplon-roanne/front-end-prairie/ex7)
+La suite : [JQuery démarrage](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex7)

@@ -9,4 +9,4 @@ Pour comprendre l'utilité d'un CDN vous pouvez regarder [ici](http://www.6ma.fr
 
 Exercice : Mettez en place jquery
 ---
-La suite : [JQuery menu hamburger](https://github.com/simplon-roanne/front-end-prairie/ex8)
+La suite : [JQuery menu hamburger](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex8)
