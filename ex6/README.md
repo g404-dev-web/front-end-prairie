@@ -1,5 +1,6 @@
 # CSS 3 : Le responsive !
 Notre site est presque près, il ne nous reste plus qu'a l'adapter pour les support mobiles. Afin de tester votre travail vous pouvez utiliser le mode "vue adaptative" de chrome et de firefox.
+
 ---
 1. Mise en place du responsive
 Pour gérer le responsive il faut dans un premier temps ajouter la balise meta "viewport" dans le head de la page. Cette balise indiquera au navigateur comment le site doit etre adapté.
@@ -24,5 +25,6 @@ Pour la version smartphone il reste encore un peu de travail. Suivez les règles
 * Pour cacher un élément on utilise la propriété display
 
 Exercice : Suivez les règles défini ci-dessus et mettez en place le responsive pour les smartphones.
+
 ---
 La suite : [JQuery démarrage](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex7)

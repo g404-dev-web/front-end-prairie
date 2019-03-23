@@ -1,5 +1,6 @@
 # HTML le contenu
 Le HTML n'est pas un langage de programation, c'est un langage de balisage qui vous permet de gérer du contenu et sa hiérarchisation. C'est ici que vous rédigerez vos article mais aussi que vous gérerez l'arborescence de votre site et l'organisation de l'information. N'oubliez pas que la sémantique est très importante sur les page avec les balises <nav> <header> <article> <aside> <footer>.
+
 ---
 1. Création d'un menu
 Le site que nous allons créer est un site d'actualités ou les visiteurs pourront trouver des articles sur le theme de la tech et la science.
@@ -20,5 +21,6 @@ Exercice : Ajouter dans votre page d'index un pied de page contenant les informa
 Vous allez créer les pages de vos articles sur votre site. Un article contiendra un titre, une image et le texte. Ces pages reprendront votre entête et votre pied de page de l'accueil
 
 Exercice : Créez dans votre dossier projet les pages d'article en respectant la demande.
+
 ---
 La suite : [CSS démarrage](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex3)

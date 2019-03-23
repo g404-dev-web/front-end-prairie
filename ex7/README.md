@@ -8,5 +8,7 @@ Il faut dans un premier temps ajouter jQuery à notre site, pour cela plusieurs 
 Pour comprendre l'utilité d'un CDN vous pouvez regarder [ici](http://www.6ma.fr/tuto/fonctionnement+cdn+content+delivery+network-775)
 
 Exercice : Mettez en place jquery
+
 ---
+
 La suite : [JQuery menu hamburger](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex8)

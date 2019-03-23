@@ -42,5 +42,6 @@ Votre code devra attendre que la page soit prête puis :
 Pour attendre que les éléments de la page soient prêt a etre manipuler via du javascript, utilisez la fonction _ready_.
 
 Exercice : Suivez les règles et finalisez la mise en place du menu hamburger
+
 ---
 La suite : [HTML Le SEO](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex9)

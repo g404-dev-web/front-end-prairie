@@ -1,5 +1,6 @@
 # CSS la mise en page
 Votre feuille de style est maintenant en place, il ne reste plus qu'a ajouter des selecteurs et des attributs pour gérer la mise en page.
+
 ---
 1. Quelques règles génériques
 Quelques règles de mise en page générique a mettre en place :
@@ -62,5 +63,6 @@ Vous allez mettre en place la mise en page pour le pied de page de votre site ! 
 * Pour la gestion de l'ombre sur un élément html, regardez _box-shadow_
 
 Exercice : Suivez les règles définies ci-dessus et mettez en place le style du pied de page
+
 ---
 La suite : [CSS Animations/Transitions](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex5)

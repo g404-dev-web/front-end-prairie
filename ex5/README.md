@@ -1,5 +1,6 @@
 # CSS Animations / Transitions
 Vous avez réussi a mettre en page l'accueil du site, maintenant nous allons voir comment nous pouvons ajouter un peu de dynamisme a la page via des transitions et des animations.
+
 ---
 1. Ajoutons des transitions
 Voici les quelques règles donné pour l'ajout de transitions sur la page :
@@ -20,5 +21,6 @@ Pour dynamiser le site, on peut ajouter des animation a l'apparition de la page 
 * Pour les animations demandées vous allez devoir utiliser les propriétés _opacity_ et _transform_, surtout _translate_
 
 Exercice : Suivez les règles définies ci-dessus et mettez en place ces quelques transitions.
+
 ---
 La suite : [CSS le responsive](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex6)

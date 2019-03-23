@@ -55,5 +55,6 @@ Afin de donner encore plus de sens a notre page, nous allons utiliser les microd
 * Pour vous aider vous pouvez utiliser [ce site](https://schema.org/docs/schemas.html)
 
 Exercice : Suivez les règles et mettez en place les microdatas
+
 ---
 Extra : [CSS Flexbox](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex10)

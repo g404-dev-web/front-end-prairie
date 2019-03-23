@@ -5,9 +5,7 @@
 git clone https://github.com/simplon-roanne/front-end-prairie
 ```
 
-Work locally only with your favorite IDE !
-
-## Required
+## Requis
 * [HTML démarrage](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex1)
 * [HTML le contenu](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex2)
 * [CSS démarrage](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex3)
@@ -18,7 +16,7 @@ Work locally only with your favorite IDE !
 * [JQuery menu hamburger](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex8)
 * [HTML Le SEO](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex9)
 
-## Extra
+## Extras
 * [CSS Flexbox](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex10)
 * [CSS Grid](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex11)
 * [CSS 3D](https://github.com/simplon-roanne/front-end-prairie/tree/master/ex12)
