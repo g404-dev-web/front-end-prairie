@@ -19,7 +19,7 @@ Vous allez mettre en place la mise en page pour l'entête de votre site ! Elle d
 * 40px de haut
 * toute la largeur de la page
 * Fond de couleur noir
-* Texte en blanc de couleur noir
+* Texte en blanc
 * Titre d'assez grande taille, centré verticalement, avec seulement une marge de 10px à gauche et à droite
 * La liste de lien doit etre placé sur une ligne a droite du titre, chaque lien doit faire 150px de large et le texte doit etre centré horizontalement et verticalement. Le soulignement doit disparaitre.
 * Au survol le fond des éléments de la liste de lien doit passer en gris foncé
