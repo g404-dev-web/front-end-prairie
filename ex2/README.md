@@ -3,11 +3,13 @@ Le HTML n'est pas un langage de programation, c'est un langage de balisage qui v
 
 ---
 1. Création d'un menu
+
 Le site que nous allons créer est un site d'actualités ou les visiteurs pourront trouver des articles sur le theme de la tech et la science.
 
 Exercice : Créez dans index.html, l'entête de votre site avec : le titre et votre navigation sous forme d'une liste de lien ("Accueil", "Tech" et "Science").
 
 2. Vos articles
+
 Sur votre page d'accueil nous allons pouvoir retrouver un extrait du dernier articles du site avec une image (trouvé par vos soins) et en à-coté une liste d'article moins récents. Voici un dossier contenant les articles qui seront présent sur le site : [Les articles](https://github.com/simplon-roanne/front-end-prairie/ex2/articles.zip)
 
 Exercice : Ajouter dans votre page d'index une section contenant un extrait d'un des articles avec une image et un lien pour consulter l'article entier, puis, en à-coté, des liens vers les autres articles.
