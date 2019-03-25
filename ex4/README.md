@@ -23,7 +23,7 @@ Vous allez mettre en place la mise en page pour l'entête de votre site ! Elle d
 * Titre d'assez grande taille, centré verticalement, avec seulement une marge de 10px à gauche et à droite
 * La liste de lien doit etre placé sur une ligne a droite du titre, chaque lien doit faire 150px de large et le texte doit etre centré horizontalement et verticalement. Le soulignement doit disparaitre.
 * Au survol le fond des éléments de la liste de lien doit passer en gris foncé
-* Pour le placement, vous utiliserez le positionnement via _inline-block_, attention a l'alignement vertical de vos élément <h1> et <nav>
+* Pour le placement, vous utiliserez le positionnement via _inline-block_, attention a l'alignement vertical de vos élément h1 et nav
 * Pour le survol, vous utiliserez une _pseudo-classe_
 
 Exercice : Suivez les règles définies ci-dessus et mettez en place le style de l'entête
