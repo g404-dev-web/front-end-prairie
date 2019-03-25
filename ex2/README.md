@@ -1,5 +1,5 @@
 # HTML le contenu
-Le HTML n'est pas un langage de programation, c'est un langage de balisage qui vous permet de gérer du contenu et sa hiérarchisation. C'est ici que vous rédigerez vos article mais aussi que vous gérerez l'arborescence de votre site et l'organisation de l'information. N'oubliez pas que la sémantique est très importante sur les page avec les balises <nav> <header> <article> <aside> <footer>.
+Le HTML n'est pas un langage de programation, c'est un langage de balisage qui vous permet de gérer du contenu et sa hiérarchisation. C'est ici que vous rédigerez vos article mais aussi que vous gérerez l'arborescence de votre site et l'organisation de l'information. N'oubliez pas que la sémantique est très importante sur les page avec les balises nav, header, article, aside et footer.
 
 ---
 1. Création d'un menu
