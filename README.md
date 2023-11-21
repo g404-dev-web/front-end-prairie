@@ -2,7 +2,7 @@
 
 ## Set-up
 ```bash
-git clone https://github.com/simplon-roanne/front-end-prairie
+git clone https://github.com/BasileKocheida/front-end-prairie
 ```
 
 ## Requis
